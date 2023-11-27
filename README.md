@@ -52,3 +52,9 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 4. Read blogs and follow industry leaders: Staying informed about thelatest developments in programming and technology can provide you with valuable insights and inspiration. Following industry influencers and subscribing to relevant blogs can keep you up to date with current trends.   
 5. Code regularly: Even if it 's just for 30 minutes a day, consistent practice is crucial for maintaining your programming skills. Set aside time to work on personal projects or contribute to open-source initiatives tostay sharp and engaged.    
 6. Seek feedback and critique: Sharing your work with others and receiving constructive feedback canhelp you identify areas for improvement and develop a deeper understandingof your craft. Don't be afraid to ask questions and learnfrom the experiences of others.
+
+# 2023-11-27
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial. Make sure you have a plan in place for each day, week, or even month. Knowing what you want to achieve and when will keep you on track and prevent you from getting lost in the weeds. Planning also helps you stay focused on your goals and makes it easier to adjust your plans as needed. 
+ - 来自帮助助手
