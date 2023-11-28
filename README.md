@@ -58,3 +58,10 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 
 Second, planning ahead is crucial. Make sure you have a plan in place for each day, week, or even month. Knowing what you want to achieve and when will keep you on track and prevent you from getting lost in the weeds. Planning also helps you stay focused on your goals and makes it easier to adjust your plans as needed. 
  - 来自帮助助手
+
+# 2023-11-28
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools. This will not only make you a more valuable asset to your team or organization but also help you stay ahead of the competition.
+
+One ofthe most important aspects of programming is problem-solving. When faced with a challenging problem, take a step back, break it down into smaller components, and analyze each part carefully. By using logical thinking and creative problem solving techniques, you can find a solution that works for the specific problem at hand. Practice makes perfect, so keep practicing problemsolving skills to improve your overall programming ability. 
+ - 了解新技术和编程语言。
+-保持学习。-解决问题。
