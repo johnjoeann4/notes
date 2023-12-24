@@ -165,3 +165,12 @@ Planning ahead is essential to avoid last-minute stress and confusion. When you 
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can make sure that you focus on the critical aspects of the project first, which will save you time and effort in the long run. You can use techniques such as the MoSCoW method (Must have, Should have , Could have and Won't have) to classify your task. 
 2. Plan ahead: Planning is crucial in programming. It helps you organize your thoughts, set goals, allocate resources, schedule time, etc. Planning ahead will ensure that your project stays on track and avoids any unexpected delays. Break your projects into smaller, manageable tasks and create a timeline for each task to complete. Also, don' t forget to allocate time for feedback and revisions.  
 3. Stay organized: Keeping your code, project files, notes, research, documentation, all in order is very important. A well-organized workspace will make it easier for you find the information you need quickly and efficiently. Use version control systems like Git to manage your source code and collaborate with others. Organize your notes and documentation in a way that makes sense to you. Using code formatting and naming conventions can also help keep your work organized and readable.
+
+# 2023-12-24
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest trends and technologies, such as artificial intelligence, machine learning, and blockchain.
+
+To be successful in the programming field, you must also develop excellent communication and teamwork skills, as most projects involve collaborating with other professionals. Effective communication helps to ensure that everyone is on the same page and that ideas can be translated into working code. Additionally, being able to explain complex concepts simply and clearly is an invaluable skill. 
+ - 来自npc的补充 0.0
+-来自机器人的补充
+此外，保持好奇心和探索精神也是成为一名优秀程序员的关键。不断尝试新事物，学习新技能，以及了解不同领域的知识，可以帮助你更好地理解编程的本质，并找到新的解决方案。同时，也要学会适应变化，因为编程领域总是在不断变化和发展。
+总之，成为一名优秀的程序员需要不断学习，具备良好的沟通和团队协作能力，并保持好奇和探索的精神。
