@@ -254,3 +254,6 @@ In more words but still within 200 words: Always keep in mind that over-concern 
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques such as the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them. 
  其次，明智地规划你的时间。在编程时，合理安排时间至关重要。你可以为每个任务分配特定的时间段，以确保你在规定的时间内完成任务。此外，避免在高峰时段进行编程，因为这可能会导致干扰和低效率。 最后，保持组织。使用版本控制系统（如Git）来管理你的代码，并确保你的工作区始终保持整洁。这将帮助你更容易地找到和修复错误，以及更有效地协作。
 总之，今天的智慧是优先处理任务，合理分配时间并保持组织，这将有助于提高你在编程工作中的效率和生产力。
+
+# 2024-01-11
+- "Keep it simple, stupid!"
