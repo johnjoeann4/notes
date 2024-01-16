@@ -285,3 +285,6 @@ This quote echoes the principle often attributed to Leonardo da Vinci, which hig
 First, prioritize your tasks. When you're working on a project, there will always be multiple things to do. By identifying which tasks are most important and which can wait, you can make sure you focus on the right things. Use a task management tool, such as Trello or Asana, to keep track of your work and prioritize accordingly. 
  -
 Second, planning ahead is crucial. Before starting a new project or a difficult task, take some time to plan out your approach. Write down a list of steps you need to take, any potential challenges you may encounter,and how you plan to overcome them.This will ensure that you have a clear roadmap and can stay focused on your goals.
+
+# 2024-01-16
+- "Keep it simple, stupid!"
