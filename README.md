@@ -387,3 +387,14 @@ In essence, today's programming wisdom emphasizes the importance of clarity, mai
 
 # 2024-02-09
 - "Keep it simple, stupid!"
+
+# 2024-02-10
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded as needed. To achieve this, follow these best practices:
+
+1. Use clear variable, function, method, class, module, etc. names that accurately represent their purpose and functionality.
+2. Organize code into logical, modular blocks that follow the Single Responsibility Principle (SRP) and the Open/Closed Proration (OCP), making it easier to understand and modify. 
+3. Follow coding conventions and style guides to ensure consistent and aesthetically pleasing code.This makes it more readable and easier for others to contribute.  
+4. Document code with comments and documentation to explain its purpose, functionality, input, output, assumptions, constraints, edge cases, known issues, workarounds, dependencies, security considerations, performance optimizations, testing strategies, deployment instructions, maintenance schedules, versioning policies, release management, change management processes, risk management strategies and other relevant information. Documentation should be concise and accurate, but also easy to read and understand. It should also be maintained and updated as the code changes.   
+5. Write tests and use test-driven development (TDD) to write code for the tests, not the other way around. Tests should cover all possible input combinations, boundary conditions, errors, exceptions, race conditions and security vulnerabilities. They should have good test coverage and should not be flaky or difficult to maintain. Test results should provide sufficient evidence that the software is working correctly and meets its requirements.    
+6. Continuously review, refactor, optimize, debug, profile, benchmark, analyze, document, test and improve the quality of the source code, build scripts, configuration files, environment variables, data models, database schemas, API documentation, user manuals, training materials, support tickets, knowledge base articles, incident reports, bug reports and any other related artifacts. Do this regularly and proactively to identify and fix issues before they become critical or expensive to fix.      
+7. Learn from experience, feedback, research, books, blogs, articles and conferences. Share knowledge, learnings, tools, techniques, best-practices, tips and tricks with colleagues, peers, mentors, students, clients, users, customers, stakeholders and anyone else who can benefit from them. Always be open to learning, improving and growing.
