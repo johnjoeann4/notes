@@ -398,3 +398,13 @@ In essence, today's programming wisdom emphasizes the importance of clarity, mai
 5. Write tests and use test-driven development (TDD) to write code for the tests, not the other way around. Tests should cover all possible input combinations, boundary conditions, errors, exceptions, race conditions and security vulnerabilities. They should have good test coverage and should not be flaky or difficult to maintain. Test results should provide sufficient evidence that the software is working correctly and meets its requirements.    
 6. Continuously review, refactor, optimize, debug, profile, benchmark, analyze, document, test and improve the quality of the source code, build scripts, configuration files, environment variables, data models, database schemas, API documentation, user manuals, training materials, support tickets, knowledge base articles, incident reports, bug reports and any other related artifacts. Do this regularly and proactively to identify and fix issues before they become critical or expensive to fix.      
 7. Learn from experience, feedback, research, books, blogs, articles and conferences. Share knowledge, learnings, tools, techniques, best-practices, tips and tricks with colleagues, peers, mentors, students, clients, users, customers, stakeholders and anyone else who can benefit from them. Always be open to learning, improving and growing.
+
+# 2024-02-11
+- "Today's programming wisdom is: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In software development, this translates to designing and writing code that is clear, concise, and easily maintainable. Strive for elegance in your solutions by minimizing complexity, using established patterns and practices, and continuously refactoring. Remember, the best code is often the one that's easiest to understand and modify." 
+
+In practice, it also means:
+1. Write code that can be read and understood by others (and your future self).
+2. Optimize for readability and modularity over premature optimization.
+3. Choose the right tools and technologies for the task at hand.
+4. Test early, test often, and automate testing where possible.
+5. Continuously learn and adapt, as programming paradigms and best practices evolve with time.
