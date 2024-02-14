@@ -414,3 +414,6 @@ In practice, it also means:
 
 # 2024-02-13
 - Today's programming wisdom: "Premature optimization is the root of all evil" - Donald Knuth. This quote reminds us that while efficiency is important, optimizing code too early without proper profiling and understanding the actual bottlenecks can lead to unnecessary complexity, harder maintenance, and potential bugs. Focus on writing clear, readable, and correct code first, then optimize if and where it's truly needed.
+
+# 2024-02-14
+- "Keep it simple, stupid!"
