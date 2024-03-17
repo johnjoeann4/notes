@@ -554,3 +554,9 @@ To be successful in the programming world, you must also develop excellent probl
 5. Practice programming challenges: Websites like LeetCode, HackerRank, or Project Euler offer programming exercises that can help improve your problem-solving skills and prepare you for real-world challenges.    
 6. Don't be afraid to ask for help: When stuck on a problem or unsure how something works, reach out to your colleagues, friends, family, online communities, forums, Stack Overflow, GitHub, Reddit, Quora, ... the list goes on!
 7. Keep a portfolio of your work: Showcasing your projects and code on GitHub or your personal website can not only help build your resume but also give you a sense of pride and accomplishment. It can be a great tool for networking too! 8. Stay organized and disciplined: Planning your time and setting goals can make all the difference in learning new skills or improving existing ones. Use tools like Todoist, Trello, Google Calendar, to manage your tasks and stay on track.
+
+# 2024-03-17
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing your work, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time for each step. Having a clear plan will keep you on track and prevent you from getting lost in the code. 
+ -- 211个词
